@@ -11,4 +11,4 @@ Aprendi como utilizar a API do Canvas HTML5 para desenhar gráficos e criar anim
 O intuito, é entender as coisas básicas, aprimorar elas, antes de se perder nessa complexidade! Como diz Guy "Não tema o homem que sabe utilizar mil golpes
 ,mas sim aquele que treinou mil vezes o mesmo golpe", acho que frase é assim.</p>
 
-![imgem da cobrinha]()
+![imgem da cobrinha](https://github.com/Lucian11-LA/Jogo_da_cobrinha-snake_game-/blob/master/cobrinhaindex.png)
