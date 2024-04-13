@@ -1,9 +1,6 @@
-# Jogo_da_cobrinha-snake_game-
-<h2>Jogo da Cobrinha com JavaScript, html e CSS</h2>
 
-
-
-<h1>Título: Criando uma Aplicação Interativa com JavaScript, HTML e CSS usando Canvas</h1>
+<h2>Snake Game: Jogo da Cobrinha com JavaScript, html e CSS</h2>
+<h1>Criando uma Aplicação Interativa com JavaScript, HTML e CSS usando Canvas</h1>
 
 <p>No mundo da programação web, há diversas maneiras de criar experiências interativas envolventes para os usuários. Uma abordagem popular é o uso da tecnologia Canvas HTML5, que permite desenhar gráficos, animações e outros elementos visuais diretamente na página da web. Neste projeto, explorei como criar uma aplicação interativa utilizando JavaScript para manipular o Canvas, combinado com HTML e CSS para estrutura e estilo.</p>
 <p>Apenas é uma aplicação simples onde os usuários podem jogar o jogo da cobrinha no Canvas utilizando as teclas de direção. 
